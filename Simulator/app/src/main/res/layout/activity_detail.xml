@@ -162,7 +162,9 @@
                 app:layout_constraintStart_toEndOf="@+id/tvVersus"
                 app:layout_constraintTop_toTopOf="@+id/ivAwayTeam"
                 tools:text="99" />
+
         </androidx.constraintlayout.widget.ConstraintLayout>
+
     </androidx.core.widget.NestedScrollView>
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
